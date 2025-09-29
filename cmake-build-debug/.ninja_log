@@ -1,0 +1,14 @@
+# ninja log v6
+3	143	7508509593632856	CMakeFiles/C.dir/add.c.obj	1e61cf6015968699
+15	145	7508509593752830	CMakeFiles/C.dir/add2.c.obj	50e87f7ef289bbd4
+5	520	7544209503357621	CMakeFiles/C.dir/CalculateDate.c.obj	8cb891c580fb2fad
+28	145	7508509593882862	CMakeFiles/C.dir/calculate.c.obj	abb1d4e2195b3375
+26	518	7544209503577674	CMakeFiles/C.dir/Fibonacci.c.obj	a1585e7438955117
+68	146	7508509594278318	CMakeFiles/C.dir/GCD_LCM.c.obj	c0fee7e081758e7b
+80	153	7508509594398257	CMakeFiles/C.dir/hello.c.obj	d5ee9a84b2996915
+93	168	7508509594528248	CMakeFiles/C.dir/pai.c.obj	188f4def8b97cc9c
+105	179	7508509594648256	CMakeFiles/C.dir/SwitchCalculate.c.obj	6ec7d2fb779d2b50
+117	184	7508509594768334	CMakeFiles/C.dir/task1.c.obj	371351af8f4322e0
+130	197	7508509594893505	CMakeFiles/C.dir/test.c.obj	b6b1613b53e4f994
+47	519	7544209503787661	CMakeFiles/C.dir/sqrt1.c.obj	5bd112c4d73edf2a
+66	512	7544209503977729	CMakeFiles/C.dir/node1.c.obj	5cbf8c22f1930ffc
